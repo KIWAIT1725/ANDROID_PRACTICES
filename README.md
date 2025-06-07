@@ -33,3 +33,4 @@ Este repositorio contiene una colección de prácticas realizadas en **Android S
 
 2. Clona mi perfil de Android Studio Developer
    https://g.dev/kiwait1725
+3. You ready for coding and Having a fun day coding
