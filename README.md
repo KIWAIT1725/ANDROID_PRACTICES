@@ -32,5 +32,4 @@ Este repositorio contiene una colección de prácticas realizadas en **Android S
    git clone https://github.com/KIWAIT1725/ANDROID_PRACTICES.git
 
 2. Clona mi perfil de Android Studio Developer
-   ```bash
-https://g.dev/kiwait1725
+   ```bash https://g.dev/kiwait1725
